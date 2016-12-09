@@ -1,4 +1,5 @@
 #include <iostream>
+using namespace std;
 class pr{ 
 public:
 	int a,b;
